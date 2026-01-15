@@ -66,7 +66,7 @@ chmod +x setup.sh
 ```bash
 # Claude Code 환경
 주식 관련 정보를 볼 수 있는 대시보드를 원한다.
-최대한 많은 정보를 웹에서 깔끔하게 볼 수 있는 스타일과 척척박사의 컨셉으로 화면을 한 번 그려줘
+최대한 많은 정보를 웹에서 깔끔하게 볼 수 있는 스타일과 척척박사의 컨셉으로 화면을 ui-prototyper로 그려줘
 ```
 
 응답1
@@ -155,7 +155,7 @@ chmod +x setup.sh
 
 ```bash
 # Gemini CLI 환경
-현재 프로젝트 실행시 http://localhost:3000 화면을 그려줘
+현재 프로젝트 실행시 http://localhost:3000 화면을 ui-prototyper로 그려줘
 ```
 
 응답2
